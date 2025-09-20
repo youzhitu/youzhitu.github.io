@@ -25,8 +25,11 @@ Working Experience
 - Research Associate, The Hong Kong Polytechnic University, Nov. 2021–Feb. 2022
 - Research Assistant, The Hong Kong Polytechnic University, Oct. 2017–Aug. 2018
 
-#Publication
-##Journal
+Publication
+======
+
+  Journal
+  ------
 - **Youzhi Tu**, Man-Wai Mak, Kong-Aik Lee, and Weiwei Lin, “ConFusionformer: Locality-enhanced Conformer Through Multi-resolution Attention Fusion for Speaker Verification,” Neurocomputing, vol. 644, 2025.
 - Zezhong Jin, **Youzhi Tu**, ChongXin Gan, Man-Wai Mak, and Kong-Aik Lee, “Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation With Applications to Speaker Verification,” Neurocomputing, vol. 624, 2025.
 - **Youzhi Tu**, Man-Wai Mak, and Jen-Tzung Chien, “Contrastive Self-Supervised Speaker Embedding With Sequential Disentanglement,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 32, pp. 2704–2715, 2024.
