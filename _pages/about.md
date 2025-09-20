@@ -27,7 +27,7 @@ Working Experience
 
 Publication
 ======
-  
+
 Journal
 ------
 - **Youzhi Tu**, Man-Wai Mak, Kong-Aik Lee, and Weiwei Lin, “ConFusionformer: Locality-enhanced Conformer Through Multi-resolution Attention Fusion for Speaker Verification,” Neurocomputing, vol. 644, 2025.
@@ -36,7 +36,7 @@ Journal
 - **Youzhi Tu**, Weiwei Lin, and Man-Wai Mak, “A Survey on Text-Dependent and Text-Independent Speaker Verification,” IEEE Access, vol. 10, pp. 99038–99049, 2022.
 - **Youzhi Tu** and Man-Wai Mak, “Aggregating Frame-Level Information in the Spectral Domain With Self-Attention for Speaker Embedding,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 944–957, 2022.
 - **Youzhi Tu**, Man-Wai Mak, and Jen-Tzung Chien, “Variational Domain Adversarial Learning With Mutual Information Maximization for Speaker Verification,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 2013–2024, 2020.
-  
+
 Conference
 ------
 - ChongXin Gan, **Youzhi Tu**, Zezhong Jin, Man-Wai Mak, and Kong Aik Lee, “Grouped Knowledge Distillation with Adaptive Logit Softening for Speaker Recognition,” in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.
