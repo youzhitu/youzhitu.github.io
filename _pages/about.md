@@ -11,8 +11,8 @@ Dr. Tu Youzhi received a B.Eng. degree and an M.Sc. degree from Harbin Engineeri
 
 Education
 ======
-- Doctor of Philosophy in Electronic and Information Engineering (Speaker Recognition)
-The Hong Kong Polytechnic University, Hong Kong SAR Sep. 2018–Apr. 2022
+- Doctor of Philosophy in Electronic and Information Engineering (Speaker Recognition)\\
+The Hong Kong Polytechnic University, Hong Kong SAR Sep. 2018–Apr. 2022 \\
 Thesis title: Deep Speaker Embedding for Robust Speaker Verification
 - Master of Engineering in Underwater Acoustic Engineering (Acoustic Signal Processing)
 Harbin Engineering University, China Aug. 2012–Mar. 2015
