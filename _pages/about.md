@@ -28,8 +28,8 @@ Working Experience
 Publication
 ======
   
-  Journal
-  ------
+Journal
+------
 - **Youzhi Tu**, Man-Wai Mak, Kong-Aik Lee, and Weiwei Lin, “ConFusionformer: Locality-enhanced Conformer Through Multi-resolution Attention Fusion for Speaker Verification,” Neurocomputing, vol. 644, 2025.
 - Zezhong Jin, **Youzhi Tu**, ChongXin Gan, Man-Wai Mak, and Kong-Aik Lee, “Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation With Applications to Speaker Verification,” Neurocomputing, vol. 624, 2025.
 - **Youzhi Tu**, Man-Wai Mak, and Jen-Tzung Chien, “Contrastive Self-Supervised Speaker Embedding With Sequential Disentanglement,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 32, pp. 2704–2715, 2024.
@@ -37,8 +37,8 @@ Publication
 - **Youzhi Tu** and Man-Wai Mak, “Aggregating Frame-Level Information in the Spectral Domain With Self-Attention for Speaker Embedding,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 944–957, 2022.
 - **Youzhi Tu**, Man-Wai Mak, and Jen-Tzung Chien, “Variational Domain Adversarial Learning With Mutual Information Maximization for Speaker Verification,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 2013–2024, 2020.
   
-  Conference
-  ------
+Conference
+------
 - ChongXin Gan, **Youzhi Tu**, Zezhong Jin, Man-Wai Mak, and Kong Aik Lee, “Grouped Knowledge Distillation with Adaptive Logit Softening for Speaker Recognition,” in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.
 - Zezhong Jin, **Youzhi Tu**, Zhe Li, Zilong Huang, ChongXin Gan, and Man-Wai Mak, “Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification,” in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.
 - Zezhong Jin, **Youzhi Tu**, and Man-Wai Mak, “W-GVKT: Within-Global-View Knowledge Transfer for Speaker Verification,” in Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH), 2024, pp. 3779–3783.
