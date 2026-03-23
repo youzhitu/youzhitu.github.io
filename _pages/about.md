@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Tu Youzhi received a B.Eng. degree and an M.Sc. degree from Harbin Engineering University in 2012 and 2015, respectively. He received a Ph.D. degree in Electronic and Information Engineering at The Hong Kong Polytechnic University in 2022. He is now a postdoctoral fellow at The Hong Kong Polytechnic University. His research interests include speaker recognition and deep learning.
+I received a B.Eng. degree and an M.Sc. degree from Harbin Engineering University in 2012 and 2015, respectively. I received a Ph.D. degree in Electronic and Information Engineering at The Hong Kong Polytechnic University in 2022. I am now a postdoctoral fellow at The Hong Kong Polytechnic University. My research interests include speaker recognition and speech deepfake detection.
 
 Education
 ======
@@ -51,5 +51,3 @@ Conference
 - **Youzhi Tu** and Man-Wai Mak, “Short-time Spectral Aggregation for Speaker Embedding,” in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 6708–6712.
 - **Youzhi Tu**, Man-Wai Mak, and Jen-Tzung Chien, “Information Maximized Variational Domain Adversarial Learning for Speaker Verification,” in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020, pp. 6449–6453.
 - **Youzhi Tu**, Man-Wai Mak, and Jen-Tzung Chien, “Variational Domain Adversarial Learning for Speaker Verification,” in Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH), 2019, pp. 4315–4319.
-- Weiwei Lin, Man-Wai Mak, **Youzhi Tu**, and Jen-Tzung Chien, “Semi-supervised Nuisance-attribute Networks for Domain Adaptation,” in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019, pp. 6236–6240.
-
