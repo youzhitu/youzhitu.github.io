@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- trigger rebuild -->
-
 I received a B.Eng. degree and an M.Sc. degree from Harbin Engineering University in 2012 and 2015, respectively. I received a Ph.D. degree in Electronic and Information Engineering at The Hong Kong Polytechnic University in 2022. I am now a postdoctoral fellow at The Hong Kong Polytechnic University. My research interests include speaker recognition and speech deepfake detection.
 
 Education
