@@ -1,3 +1,5 @@
+<!-- trigger rebuild -->
+
 ---
 permalink: /
 title: "Biography"
